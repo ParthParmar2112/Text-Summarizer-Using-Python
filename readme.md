@@ -64,5 +64,5 @@ The summary will be displayed in the lower text area.
 
 # Acknowledgments
 
-NLTK Library: https://www.nltk.org/ <br>
+NLTK Library: https://www.nltk.org/
 Tkinter Library: https://docs.python.org/3/library/tkinter.html
